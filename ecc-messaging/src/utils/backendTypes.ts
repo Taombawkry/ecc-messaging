@@ -1,0 +1,1 @@
+// Types and interfaces for all backend scripts
